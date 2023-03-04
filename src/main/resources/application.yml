@@ -6,9 +6,9 @@ spring:
     name: demo
 
   datasource:
-    url: jdbc:mysql://jjeongdb.cxicskki9obm.ap-northeast-2.rds.amazonaws.com/carrotERD?autoReconnect=true # 변경해주세요
+    url: jdbc:mysql://jjeongdb.************.ap-northeast-2.rds.amazonaws.com/carrotERD?autoReconnect=true # 변경해주세요
     username: jjeong # 변경해주세요
-    password: shinin_0525 # 변경해주세요
+    password: *********** # 변경해주세요
     driver-class-name: com.mysql.cj.jdbc.Driver # mysql 8버전
     # driver-class-name: com.mysql.jdbc.Driver # mysql 5버전
   sql:
