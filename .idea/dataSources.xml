@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="carrotERD@jjeongdb.cxicskki9obm.ap-northeast-2.rds.amazonaws.com" uuid="760f681e-8c5b-4c08-b23c-041cd26fcc99">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://jjeongdb.cxicskki9obm.ap-northeast-2.rds.amazonaws.com:3306/carrotERD</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="carrotCoreERD@jjeongdb.cxicskki9obm.ap-northeast-2.rds.amazonaws.com" uuid="d0f02960-40bd-44fd-8114-8c6e26bd6f00">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://jjeongdb.cxicskki9obm.ap-northeast-2.rds.amazonaws.com:3306/carrotCoreERD</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="8e298311-4b5d-461a-b7a5-e9e34d26626f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
